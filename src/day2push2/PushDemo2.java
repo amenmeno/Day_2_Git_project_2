@@ -8,4 +8,6 @@ public class PushDemo2 {
 	public static void test() {
 		System.out.println("THIS IS TEST");
 	}
+	public static void test4() {
+		System.out.println("THIS IS TEST");
 }
